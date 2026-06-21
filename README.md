@@ -76,5 +76,5 @@ Customer-Churn-Prediction/
 
 ## 👨‍💻 Author
 
-- Your Name
+- Shiva Ram
 
